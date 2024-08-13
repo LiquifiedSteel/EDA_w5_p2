@@ -1,11 +1,11 @@
-header {
+.header {
     background-color: maroon;
     padding: 5px 10px;
     color: #ff3800;
     text-align: center;
 }
 
-main {
+.main {
     background-color: lightgrey;
 }
 body {
